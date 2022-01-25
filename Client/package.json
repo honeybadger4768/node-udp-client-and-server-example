@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "dgram": "^1.0.1"
+  },
+  "name": "client",
+  "version": "1.0.0",
+  "main": "Client.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node Client.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

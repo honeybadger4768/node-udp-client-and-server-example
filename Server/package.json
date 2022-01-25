@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dgram": "^1.0.1"
+  },
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
